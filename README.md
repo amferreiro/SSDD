@@ -1,1 +1,1 @@
-Primera práctica sistemas distribuidos. Nota 10
+Práctica sistemas distribuidos. Nota 10
